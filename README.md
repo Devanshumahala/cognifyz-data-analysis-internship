@@ -1,18 +1,18 @@
 # 📊 Cognifyz Data Analysis Internship Project
 
-This repository contains all the tasks completed during my **Data Analysis Internship** at [Cognifyz Technologies].
+This repository contains all the tasks completed during my **Data Analysis Internship** at Cognifyz Technologies.
 ## 📁 Project Structure
 
 Cognifyz-Internship/
 ├── Dataset/ ← Provided dataset
-├── Level-1/
-│ ├── top_cuisines.ipynb ← Task: Top 3 Cuisines Analysis
-│ ├── price_range.ipynb ← Task: Price Range Distribution
-│ └── screenshots/ ← Graphs for Level 1
+├── Level-1
+ ├── top_cuisines.ipynb ← Task: Top 3 Cuisines Analysis
+ ├── price_range.ipynb ← Task: Price Range Distribution
+ └── screenshots/ ← Graphs for Level 1
 ├── Level-3/
-│ ├── votes_analysis.ipynb ← Task: Votes vs Rating Analysis
-│ ├── price_vs_services.ipynb ← Task: Price vs Delivery/Table Booking
-│ └── screenshots/ ← Graphs for Level 3
+ ├── votes_analysis.ipynb ← Task: Votes vs Rating Analysis
+ ├── price_vs_services.ipynb ← Task: Price vs Delivery/Table Booking
+ └── screenshots/ ← Graphs for Level 3
 
 
 ## ✅ Tasks Completed
